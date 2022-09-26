@@ -12,6 +12,6 @@
           - uses: actions/checkout@v2
           - uses: akhileshns/heroku-deploy@v3.12.11
             with:
-              heroku_api_key: ${{secrets.HEROKU_API_KEY}}
+              heroku_api_key: ${{secrets.c699fc1c-ba8f-4b40-ad36-8b22d84b17c5}}
               : "redux-store-pro22"
               heroku_email: "schadhuntsman@gmail.com"
